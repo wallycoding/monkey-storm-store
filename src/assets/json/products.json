@@ -1,0 +1,182 @@
+[
+    {
+        "id": 0.3428958427579829,
+        "photo": "/assets/images/1.jpg",
+        "title": "Processador AMD Ryzen 5 3600 Cache 32MB 3.6GHz(4.2GHz Max Turbo) AM4, Sem Vídeo - 100-100000031BOX",
+        "marking": "AMD",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.705,76",
+        "nowPrice": "R$ 1.449,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.42162605024976774,
+        "photo": "/assets/images/2.jpg",
+        "title": "Memória HyperX Fury, 8GB, 2666MHz, DDR4, CL16, Preto - HX426C16FB3/8",
+        "marking": "HyperX",
+        "discount": "-14%",
+        "oldPrice": "R$ 323,41",
+        "nowPrice": "R$ 274,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.5740735152827454,
+        "photo": "/assets/images/3.jpg",
+        "title": "Cadeira Gamer Husky Snow, Black - HSN-BK",
+        "marking": "Husky",
+        "discount": "-15%",
+        "oldPrice": "R$ 999,89",
+        "nowPrice": "R$ 849,91",
+        "redirect": "#"
+    },
+    {
+        "id": 0.6561956847542099,
+        "photo": "/assets/images/4.jpg",
+        "title": "Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 0C 4G, 4GB, GDDR6 - GV-N1656OC-4GD",
+        "marking": "NVIDIA",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.364,59",
+        "nowPrice": "R$ 1.159,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.7905290124072812,
+        "photo": "/assets/images/5.jpg",
+        "title": "Mouse Gamer Redragon King Cobra, RGB, 8 Botões, 24000DPI - M711-FPS",
+        "marking": "Redragon",
+        "discount": "-15%",
+        "oldPrice": "R$ 252,82",
+        "nowPrice": "R$ 214,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.6790220440748145,
+        "photo": "/assets/images/6.jpg",
+        "title": "Monitor Gamer Acer LED 23.6´ Full HD, HDMI/DisplayPort, Free Sync, 165Hz, 0.5ms, Inclinação Ajustável, Preto/Vermelho - KG241Q Sbiip",
+        "marking": "Acer",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.999,89",
+        "nowPrice": "R$ 1.799,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.3428958427579829,
+        "photo": "/assets/images/1.jpg",
+        "title": "Processador AMD Ryzen 5 3600 Cache 32MB 3.6GHz(4.2GHz Max Turbo) AM4, Sem Vídeo - 100-100000031BOX",
+        "marking": "AMD",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.705,76",
+        "nowPrice": "R$ 1.449,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.42162605024976774,
+        "photo": "/assets/images/2.jpg",
+        "title": "Memória HyperX Fury, 8GB, 2666MHz, DDR4, CL16, Preto - HX426C16FB3/8",
+        "marking": "HyperX",
+        "discount": "-14%",
+        "oldPrice": "R$ 323,41",
+        "nowPrice": "R$ 274,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.5740735152827454,
+        "photo": "/assets/images/3.jpg",
+        "title": "Cadeira Gamer Husky Snow, Black - HSN-BK",
+        "marking": "Husky",
+        "discount": "-15%",
+        "oldPrice": "R$ 999,89",
+        "nowPrice": "R$ 849,91",
+        "redirect": "#"
+    },
+    {
+        "id": 0.6561956847542099,
+        "photo": "/assets/images/4.jpg",
+        "title": "Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 0C 4G, 4GB, GDDR6 - GV-N1656OC-4GD",
+        "marking": "NVIDIA",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.364,59",
+        "nowPrice": "R$ 1.159,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.7905290124072812,
+        "photo": "/assets/images/5.jpg",
+        "title": "Mouse Gamer Redragon King Cobra, RGB, 8 Botões, 24000DPI - M711-FPS",
+        "marking": "Redragon",
+        "discount": "-15%",
+        "oldPrice": "R$ 252,82",
+        "nowPrice": "R$ 214,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.6790220440748145,
+        "photo": "/assets/images/6.jpg",
+        "title": "Monitor Gamer Acer LED 23.6´ Full HD, HDMI/DisplayPort, Free Sync, 165Hz, 0.5ms, Inclinação Ajustável, Preto/Vermelho - KG241Q Sbiip",
+        "marking": "Acer",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.999,89",
+        "nowPrice": "R$ 1.799,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.3428958427579829,
+        "photo": "/assets/images/1.jpg",
+        "title": "Processador AMD Ryzen 5 3600 Cache 32MB 3.6GHz(4.2GHz Max Turbo) AM4, Sem Vídeo - 100-100000031BOX",
+        "marking": "AMD",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.705,76",
+        "nowPrice": "R$ 1.449,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.42162605024976774,
+        "photo": "/assets/images/2.jpg",
+        "title": "Memória HyperX Fury, 8GB, 2666MHz, DDR4, CL16, Preto - HX426C16FB3/8",
+        "marking": "HyperX",
+        "discount": "-14%",
+        "oldPrice": "R$ 323,41",
+        "nowPrice": "R$ 274,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.5740735152827454,
+        "photo": "/assets/images/3.jpg",
+        "title": "Cadeira Gamer Husky Snow, Black - HSN-BK",
+        "marking": "Husky",
+        "discount": "-15%",
+        "oldPrice": "R$ 999,89",
+        "nowPrice": "R$ 849,91",
+        "redirect": "#"
+    },
+    {
+        "id": 0.6561956847542099,
+        "photo": "/assets/images/4.jpg",
+        "title": "Placa de Vídeo Gigabyte NVIDIA GeForce GTX 1650 D6 0C 4G, 4GB, GDDR6 - GV-N1656OC-4GD",
+        "marking": "NVIDIA",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.364,59",
+        "nowPrice": "R$ 1.159,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.7905290124072812,
+        "photo": "/assets/images/5.jpg",
+        "title": "Mouse Gamer Redragon King Cobra, RGB, 8 Botões, 24000DPI - M711-FPS",
+        "marking": "Redragon",
+        "discount": "-15%",
+        "oldPrice": "R$ 252,82",
+        "nowPrice": "R$ 214,90",
+        "redirect": "#"
+    },
+    {
+        "id": 0.6790220440748145,
+        "photo": "/assets/images/6.jpg",
+        "title": "Monitor Gamer Acer LED 23.6´ Full HD, HDMI/DisplayPort, Free Sync, 165Hz, 0.5ms, Inclinação Ajustável, Preto/Vermelho - KG241Q Sbiip",
+        "marking": "Acer",
+        "discount": "-15%",
+        "oldPrice": "R$ 1.999,89",
+        "nowPrice": "R$ 1.799,90",
+        "redirect": "#"
+    }
+]

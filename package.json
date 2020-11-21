@@ -1,0 +1,31 @@
+{
+  "name": "monkey-storm-store",
+  "version": "1.0.0",
+  "description": "This a simples project created by me.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallycoding/monkey-storm-store.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "wallycoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallycoding/monkey-storm-store/issues"
+  },
+  "homepage": "https://github.com/wallycoding/monkey-storm-store#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
