@@ -1,17 +1,17 @@
 # Monkey Storm Store
 
-### Installation
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
+## install
+```bash
 $ cd monkey-storm-store
 $ npm install
+```
+## usage
+
+- for production.
+``` bash
 $ npm start
 ```
-
-For production environments...
-
-```sh
+- for development.
+```bash
 $ npm run dev
 ```
